@@ -1,0 +1,53 @@
+.awesome_footer{
+    display: flex; 
+    flex-direction: column; 
+    align-items: center;
+    max-width: 1170px;
+    background-color:#000000;
+    margin-left: auto;
+    margin-right: auto;
+}
+.footer_icons{
+    width: 317px;
+    margin-top: 30px;
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.footer_icons_facebook{
+    color: rgba(255,255,255,0.5);
+    font-size: 23px;
+}
+.footer_icons_twitter{
+    color: rgba(255,255,255,0.5);
+    font-size: 23px;
+}
+.footer_icons_google_plus{
+    color: rgba(255,255,255,0.5);
+    font-size: 23px;
+}
+.footer_icons_pinterest{
+    color: rgba(255,255,255,0.5);
+    font-size: 23px;
+}
+.footer_icons_instagram{
+    color: rgba(255,255,255,0.5);
+    font-size: 23px;
+}
+.footer_icons_stumbleupon{
+    color: rgba(255,255,255,0.5);
+    font-size: 23px;
+}
+.footer_icons_rss{
+    color: rgba(255,255,255,0.5);
+    font-size: 23px
+}
+
+.footer_text{
+    margin-top: 18px;
+    margin-bottom: 15px;
+    color: rgba(255,255,255,0.5);
+    font-size: 12px;
+    font-family: Open Sans;
+    font-style: normal;
+}

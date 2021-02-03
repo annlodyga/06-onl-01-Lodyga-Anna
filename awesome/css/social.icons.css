@@ -1,0 +1,88 @@
+.container_social_icons{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1170px;
+    background-color:  #F8EFEF;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.social_icons_text{
+    padding-top: 14px;
+    padding-bottom: 17px;
+}
+.social_icons_text_title{
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    color: #333333;
+    font-size: 20px;
+}
+.social_icons_text_description{
+    margin-top: 14px;
+    margin-bottom: 0px;
+    width: 365px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    color: #86878B;
+}
+.social_icons_icons{
+    transition-property: all;
+    transition-duration: 0.5s;
+    width: 500px;
+    margin-top: 34px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.social_icons_icons_facebook{
+    font-size: 42px;
+    color: #86878B;
+}
+.social_icons_icons_facebook:hover{
+    color: slateblue;
+}
+.social_icons_icons_twitter{
+    font-size: 42px;
+    color: #86878B;  
+}
+.social_icons_icons_twitter:hover{
+    color: deepskyblue;
+}
+.social_icons_icons_google_plus{
+    font-size: 42px;
+    color: #86878B; 
+}
+.social_icons_icons_google_plus:hover{
+    color: firebrick;
+}
+.social_icons_icons_pinterest{
+    font-size: 42px;
+    color: #86878B; 
+}
+.social_icons_icons_pinterest:hover{
+    color: firebrick;
+}
+.social_icons_icons_instagram{
+    font-size: 42px;
+    color: #86878B; 
+}
+.social_icons_icons_instagram:hover{
+    color: darkorange;
+}
+.social_icons_icons_stumbleupon{
+    font-size: 42px;
+    color: #86878B;  
+}
+.social_icons_icons_stumbleupon:hover{
+    color: firebrick;
+}
+.social_icons_icons_rss{
+    font-size: 42px;
+    color: #86878B 
+}
+.social_icons_icons_rss:hover{
+    color: darkorange;
+}

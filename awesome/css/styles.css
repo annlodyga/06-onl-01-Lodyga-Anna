@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+}
+.navigation{
+    /*background-color: #000000;*/ 
+    margin-left: auto;
+    margin-right: auto;
+    /*padding-left: 15px;
+    padding-right: 15px*/
+}
+.header{
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px
+}
+.social_icons{
+    margin-left: auto;
+    margin-right: auto; 
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.awesome {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #FFFFFF;
+}
+.pricing {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px
+}
+.feedback{
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #FFFFFF 
+}
+.axure{
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    /*width: 100%;*/
+}
+
+.footer{
+    margin-left: auto;
+    margin-right: auto;
+    /*padding-left: 15px;
+    padding-right: 15px;*/
+}

@@ -1,0 +1,108 @@
+.container_pricing{
+    padding-bottom: 78px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1170px;
+    background-color:#F5F5F5
+}
+.pricing_title{
+    padding-top: 80px;
+    text-align: center;
+    font-size: 36px;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal
+}
+.pricing_line{
+    margin-top: 34px;
+    width: 64px;
+    height: 2px;
+    background: #D98943;
+    margin-left: auto;
+    margin-right: auto
+}
+.pricing_description{
+    padding-top: 34px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    color: #86878B;
+    margin-bottom: 63px
+}
+.pricing_lists{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    max-width: 1170px
+}
+.pricing_list_item{
+  list-style-type:none;
+  padding: 0px;
+  margin: 0px;
+}
+.pricing_list_item_name{
+    width: 340px;
+    background-color: #333333;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    color:#FFFFFF;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 2px;
+    padding-bottom: 8px;
+    padding-top: 15px;
+}
+.pricing_list_item_cost{
+    width: 340px;
+    background-color: #333333;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    color:#FFFFFF;
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 2px;
+    padding-bottom: 33px;
+    padding-top: 26px;
+}
+.pricing_list_item_duration{
+    width: 340px;
+    background-color: #333333;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 4px;
+    padding-top: 17px;
+    padding-bottom: 14px;
+}
+.pricing_list_item_duration_orange{
+    background-color:#D98943;
+    width: 340px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 4px;
+    padding-top: 17px;
+    padding-bottom: 14px;
+}
+.prising_list_item_storage{
+    width: 340px;
+    background-color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: rgba(134, 135, 139, 1);
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 4px;
+    padding-top: 10px;
+    padding-bottom: 11px;
+}
